@@ -1,2 +1,2 @@
 I want to start a book.
-Test book to see hoe GitHub can help us. These are the first sentences. I'll add other ones later.
+Test book to see how GitHub can help us. These are the first sentences. I'll add other ones later.
