@@ -1,4 +1,0 @@
-test{
-text-align:right; background-color:red;margin-right:13em;
-
-}
